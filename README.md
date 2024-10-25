@@ -1,7 +1,5 @@
 # Projeto_Deep_Face
 
-*Projeto Machine Learning; 
-
 Captura as imagens de rosto da figura e disponibiliza ao usuário sua identificação.
 
 A ideia aqui foi criar um dataset type=['png', 'jpeg'] e aplicar comandos python para machine learning, disponibilizando a identificação de rosto (imagem) ao usuário.
